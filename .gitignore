@@ -1,0 +1,9 @@
+# Entornos virtuales
+venv/
+
+# Datos en caché de F1
+cache/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
